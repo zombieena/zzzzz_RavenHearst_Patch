@@ -1,0 +1,7 @@
+Key,japanese
+resourceTurdRH,うんち
+resourceTurdRHDesc,items,ええ、それを持ってるね。では、どうするつもり？戻すこともできるし、それをコンポスターに使って肥料を作ることもできるよ。後でそのバックパックを空にするのは大変だし、他の人たちにこれを説明するのも大変だろうね。
+cntCardboardStorageRH,ダンボール箱(収納)
+cntCardboardStorageRHSchematic,ダンボール箱の設計図
+resourceSulphurRH,硫黄
+resourceSulphurRHDesc,硫黄は表面の岩に見られ、酸の製造に使用できます
