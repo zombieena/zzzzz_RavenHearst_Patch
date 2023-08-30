@@ -1,6 +1,15 @@
 # zzzzz_RavenHearst_Patch
 これはSteam版の7 Days to Dieの大型modのRavenHearstの非公式パッチだよ
 
+### 9.1.2_0001
+
+・loot.xml<br>
+9.1.2でダンボールの格納が(7,4)に修正されたので削除
+
+・Localization.txt<br>
+9.1.1の内容が更新されたので硫黄を削除
+クラフトスキル雑誌のバンドルの説明が嘘だったので変更
+
 ### 9.1.1_0001
 
 ・blocks.xml<br>
