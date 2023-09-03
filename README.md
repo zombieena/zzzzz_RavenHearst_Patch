@@ -1,6 +1,11 @@
 # zzzzz_RavenHearst_Patch
 これはSteam版の7 Days to Dieの大型modのRavenHearstの非公式パッチだよ
 
+### 9.1.2_0002
+
+・loot.xml<br>
+resourceWaterPurificationTablets(浄水タブレット)の日本語約追加
+
 ### 9.1.2_0001
 
 ・loot.xml<br>

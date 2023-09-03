@@ -4,3 +4,5 @@ resourceTurdRHDesc,items,ええ、それを持ってるね。では、どうす�
 cntCardboardStorageRH,ダンボール箱(収納)
 cntCardboardStorageRHSchematic,ダンボール箱の設計図
 questRewardMagazineBundleDesc,2つのランダムなクラフトスキル雑誌のバンドル。
+resourceWaterPurificationTablets,浄水タブレット
+resourceWaterPurificationTabletsDesc,浄水タブレットは感染した水を浄化するために使用できます。\n5 個ロットで作成できます。
